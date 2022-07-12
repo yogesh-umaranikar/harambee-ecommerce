@@ -1,0 +1,13 @@
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Application.deps.json
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Application.dll
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Application.pdb
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Core.dll
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.csproj.AssemblyReference.cache
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.AssemblyInfoInputs.cache
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.AssemblyInfo.cs
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.csproj.CoreCompileInputs.cache
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.csproj.CopyComplete
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.dll
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.pdb

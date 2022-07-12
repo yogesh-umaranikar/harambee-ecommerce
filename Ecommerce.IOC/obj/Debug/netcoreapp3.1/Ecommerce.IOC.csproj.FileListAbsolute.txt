@@ -1,0 +1,17 @@
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\bin\Debug\netcoreapp3.1\Ecommerce.IOC.deps.json
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\bin\Debug\netcoreapp3.1\Ecommerce.IOC.dll
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\bin\Debug\netcoreapp3.1\Ecommerce.IOC.pdb
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\bin\Debug\netcoreapp3.1\Ecommerce.Application.dll
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\bin\Debug\netcoreapp3.1\Ecommerce.Core.dll
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\bin\Debug\netcoreapp3.1\Ecommerce.Infrastructure.dll
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\bin\Debug\netcoreapp3.1\Ecommerce.Application.pdb
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\bin\Debug\netcoreapp3.1\Ecommerce.Infrastructure.pdb
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\bin\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\obj\Debug\netcoreapp3.1\Ecommerce.IOC.csproj.AssemblyReference.cache
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\obj\Debug\netcoreapp3.1\Ecommerce.IOC.GeneratedMSBuildEditorConfig.editorconfig
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\obj\Debug\netcoreapp3.1\Ecommerce.IOC.AssemblyInfoInputs.cache
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\obj\Debug\netcoreapp3.1\Ecommerce.IOC.AssemblyInfo.cs
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\obj\Debug\netcoreapp3.1\Ecommerce.IOC.csproj.CoreCompileInputs.cache
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\obj\Debug\netcoreapp3.1\Ecommerce.IOC.csproj.CopyComplete
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\obj\Debug\netcoreapp3.1\Ecommerce.IOC.dll
+F:\POC\ecommerce\HarambeeECommerce\Ecommerce.IOC\obj\Debug\netcoreapp3.1\Ecommerce.IOC.pdb

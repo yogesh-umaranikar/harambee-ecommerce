@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LmemoWvAaGBM2owPxHkdtp42fYJQ+abjFEaQqcVIg9Ha+BxGDlgZCbzUsqLxNpnjS8LcKL14HSoKSeZcDOKevA==",
+  "success": true,
+  "projectFilePath": "F:\\POC\\ecommerce\\harambee-ecommerce\\Ecommerce.IOC\\Ecommerce.IOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yogeshu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.0\\microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "C:\\Users\\yogeshu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
